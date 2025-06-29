@@ -14,13 +14,13 @@ You should modify [username] and [env_name] in environment.yaml, then
 
 [EATA 🔗](https://arxiv.org/abs/2204.02610) (ICML 2022)  
 
-[CoTTA 🔗]([https://arxiv.org/abs/2204.02610](https://openaccess.thecvf.com/content/CVPR2022/html/Wang_Continual_Test-Time_Domain_Adaptation_CVPR_2022_paper.html)) (CVPR 2022)
+[CoTTA 🔗](https://arxiv.org/abs/2204.02610) (CVPR 2022)
 
 [SAR 🔗](https://arxiv.org/abs/2302.12400) (ICLR 2023)  
 
 [DeYO 🔗](https://openreview.net/forum?id=9w3iw8wDuE) (ICLR 2024)
 
-[ROID 🔗]([https://openreview.net/forum?id=9w3iw8wDuE](https://openaccess.thecvf.com/content/WACV2024/html/Marsden_Universal_Test-Time_Adaptation_Through_Weight_Ensembling_Diversity_Weighting_and_Prior_WACV_2024_paper.html)) (WACV 2024)
+[ROID 🔗](https://openreview.net/forum?id=9w3iw8wDuE) (WACV 2024)
 ## Dataset
 You can download ImageNet-C from a link [ImageNet-C 🔗](https://zenodo.org/record/2235448).  
 After downloading the dataset, move to the root directory ([data_root]) of datasets.  
